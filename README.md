@@ -1,4 +1,5 @@
 Face Recognition using Convolutional Neural Networks (CNN)
+
 This project implements a face recognition system using Convolutional Neural Networks (CNNs) and Python. The goal is to accurately identify faces from images or video streams. The CNN model is trained on a dataset of face images and can then be used to recognize faces in new images or videos.
 
 Features
